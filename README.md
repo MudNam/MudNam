@@ -1,6 +1,5 @@
 ### Welcome 👋
 Naman Mudgal is a skilled Devops engineer, having experience in Automating, Configuring, Deploying, and release of Instances on Cloud Environments and data centers.
-
 • Good experience in areas of DevOps, GitOps, CI/CD Pipeline, Build and Release management, Hashicorp Terraform, Containerization, AWS, and Linux/ Unix Administration.
 • As a Cloud SRE Engineer, my objective is to strengthen the company’s applications and system features, configure servers and maintain networks to reinforce the company’s technical performance.
 • Ensure that environment is performing at its optimum level, manage system backups and provide infrastructure support.
