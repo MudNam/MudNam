@@ -1,9 +1,2 @@
-👋 Hi, I’m @NamanMudgal
-
-👀 I’m interested in your current pain points using IaC platforms and ensuring customers improve their DevOps Maturity.
-
-🌱 I’m currently learning more about the pains of customers using bespoke CICD platforms to manage Terraform, CloudFormation, Pulumi, and Ansible.
-
-💞️ I’m looking to collaborate on learning how to improve your IaC Maturity with AWS EKS ,Serverless AWS Lambda AWS Fargate
-
+Passionate about leveraging Golang, Gen AI, LLMs, vector databases, deep learning, Kubernetes, and cloud technologies to drive innovative solutions. Previously worked as a cloud engineer at a small startup, solving DevOps and cloud challenges while developing applications using Next.js. Now focusing on Rust, RAG, and fine-tuning models, integrating Gen AI for advanced semantic search and embedding storage using OpenAI and Cohere. Specializing in hybrid search, RAG generative models, and fine-tuning models.
 
